@@ -4,7 +4,7 @@ Welcome to my very first Machine Learning project! This repository contains a co
 
 ---
 
-<img width="1408" height="768" alt="Gemini_Generated_Image_jwtnbijwtnbijwtn" src="https://github.com/user-attachments/assets/9b13e6fd-8bfa-4882-9925-718d59980fdb" />
+![Data Science Salary Prediction](http://googleusercontent.com/image_collection/image_retrieval/12481616566334903337_2)
 
 ---
 
