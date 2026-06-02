@@ -4,7 +4,8 @@ Welcome to my very first Machine Learning project! This repository contains a co
 
 ---
 
-![Data Science Salary Prediction](http://googleusercontent.com/image_collection/image_retrieval/12481616566334903337_2)
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/f62fb58e-9ebb-4cb9-b368-cd7e708e9fbe" />
+
 
 ---
 
