@@ -1,7 +1,5 @@
 # Adult Salary Prediction System 🚀
 
-live demo
-
 Welcome to my very first Machine Learning project! This repository contains a complete pipeline for predicting whether an individual's annual income exceeds $50K based on census data.
 
 ---
